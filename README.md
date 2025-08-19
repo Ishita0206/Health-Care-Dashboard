@@ -24,10 +24,10 @@ It’s a great example of how **Excel can be used for data analytics and visuali
 ---
 
 ##  Use Cases
-- 📌 **Healthcare Management** → Monitor hospital operations  
-- 📌 **Data Analytics Portfolio Project** → Showcase Excel skills  
-- 📌 **Recruiter/Interview Use** → Highlight dashboard-building & visualization skills  
-- 📌 **Learning Resource** → Beginner-friendly project for practicing **Excel dashboards**  
+-  **Healthcare Management** → Monitor hospital operations  
+-  **Data Analytics Portfolio Project** → Showcase Excel skills  
+-  **Recruiter/Interview Use** → Highlight dashboard-building & visualization skills  
+-  **Learning Resource** → Beginner-friendly project for practicing **Excel dashboards**  
 
 ---
 
