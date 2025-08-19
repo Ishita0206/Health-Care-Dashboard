@@ -8,7 +8,7 @@ It’s a great example of how **Excel can be used for data analytics and visuali
 ---
 
 ## 🖼 Dashboard Preview
-![Dashboard Screenshot](Dashboard-pic.png)
+![Dashboard Screenshot](Dashboard.png)
 
 ---
 
