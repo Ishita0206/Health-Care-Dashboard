@@ -1,65 +1,64 @@
-# Health-Care-Dashboard
+# Patient Healthcare Performance Dashboard (Excel)
 
-## Healthcare Performance Dashboard README
-This is a comprehensive, interactive dashboard designed for data-driven insights into healthcare performance. It provides a visual overview of key metrics, allowing for quick analysis and informed decision-making.
+An **interactive Healthcare Analytics Dashboard** built in **Microsoft Excel** to visualize and analyze patient data.  
+This project demonstrates **data cleaning, pivot tables, pivot charts, and slicer-based interactivity** for healthcare insights.  
 
-## Features
-Key Performance Indicators (KPIs): The dashboard prominently displays critical metrics such as:
+It’s a great example of how **Excel can be used for data analytics and visualization** in real-world scenarios.
 
-Total Patient Count
+---
 
-Total Bill
+## 🖼 Dashboard Preview
+![Dashboard Screenshot](Dashboard-pic.png)
 
-Health Insurance Coverage
+---
 
-Admission and Discharge Dates
+##  Key Features
+✔️ Patient admissions & discharge analysis  
+✔️ Bed occupancy rates (General, ICU, Private)  
+✔️ Treatment analysis by doctor & diagnosis  
+✔️ Patient test breakdown (X-Ray, MRI, CT Scan, etc.)  
+✔️ Billing vs Insurance cost comparison  
+✔️ Doctor-wise patient feedback scores  
+✔️ Interactive filters with **Excel Slicers**  
 
-Visualizations: A variety of charts are used to present data in an easily digestible format:
+---
 
-Bed Occupancy: A bar chart to show patient distribution across different hospital sections (General, ICU, Private).
+##  Use Cases
+- 📌 **Healthcare Management** → Monitor hospital operations  
+- 📌 **Data Analytics Portfolio Project** → Showcase Excel skills  
+- 📌 **Recruiter/Interview Use** → Highlight dashboard-building & visualization skills  
+- 📌 **Learning Resource** → Beginner-friendly project for practicing **Excel dashboards**  
 
-Patient Treatment by Doctor: A pie chart to visualize the distribution of patients among different doctors.
+---
 
-Patient by Diagnosis: A bar chart that shows the number of patients for different diagnoses, providing a quick overview of common health issues.
+##  Tools & Techniques
+- **Microsoft Excel (Pivot Tables, Pivot Charts, Slicers)**  
+- **Data Cleaning & Transformation**  
+- **Data Visualization Techniques**  
+- **KPI Tracking**  
 
-Patient Test Data: A bar chart to show the count of various tests performed, such as X-Ray, Ultrasound, and CT Scan.
+---
 
-Patient Average Feedback: A bar chart to display average feedback scores per doctor.
+##  How to Use
+1. Open the file: Open the provided dashboard file in Microsoft Excel or a compatible spreadsheet program.
+2. Navigate to the Dashboard Sheet: Ensure you are on the "Dashboard" sheet. All other sheets (containing raw data and pivot tables) are hidden to provide a clean user interface.
+3. Analyze KPIs: The top section of the dashboard shows key metrics at a glance.
+4. Explore the Charts: Interact with the various charts to see data trends and distributions.
+5. Filter Data: Use the filter and slicer controls to drill down into specific data points (e.g., filter by a specific doctor or diagnosis). This allows for a more detailed analysis.
+  
+---
 
-Billing Amount vs. Insurance Amount: A line chart to compare billing and insurance amounts over time.
+## Insights from Dashboard
+- Private Ward has the highest **bed occupancy**  
+- **Viral Infection** is the most common diagnosis  
+- **MRI** and **Blood Tests** are the top performed tests  
+- Insurance coverage is **lower than billing amounts** for many patients  
+- Doctor feedback ratings help measure **service quality**  
 
-How to Use
-Open the file: Open the provided dashboard file in Microsoft Excel or a compatible spreadsheet program.
+---
 
-Navigate to the Dashboard Sheet: Ensure you are on the "Dashboard" sheet. All other sheets (containing raw data and pivot tables) are hidden to provide a clean user interface.
+##  Author
+Created by **Ishita Sharma** as part of a **Data Analytics Portfolio Project**.  
+If you found this helpful, don’t forget to ⭐ the repo!  
 
-Analyze KPIs: The top section of the dashboard shows key metrics at a glance.
-
-Explore the Charts: Interact with the various charts to see data trends and distributions.
-
-Filter Data: Use the filter and slicer controls to drill down into specific data points (e.g., filter by a specific doctor or diagnosis). This allows for a more detailed analysis.
-
-Dashboard Data
-The dashboard is populated with a sample dataset containing the following fields:
-
-Patient ID
-
-Admit Date
-
-Discharge Date
-
-Total Bill
-
-Health Insurance Amount
-
-Bed Occupancy Type
-
-Doctor Name
-
-Diagnosis
-
-Patient Test
-
-Patient Feedback Score
-
-Note: The dashboard is dynamic and will update automatically as you add or change data in the hidden data sheets.
+---
